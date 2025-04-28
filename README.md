@@ -28,12 +28,53 @@ Topics Covered:
 
 Linear Algebra:
 
-Solving Linear Equations (linalg.solve)
+  -  Solving Linear Equations (linalg.solve)
+     
+  -  Matrix Inversion (linalg.inv)
+     
+  -  Finding Roots (polynomial.Polynomial)
+     
+  -  Eigenvalues and Eigenvectors (linalg.eig)
+     
+-  Practical Examples with Image Processing, Deep Learning references (OpenCV, TensorFlow)
 
-Matrix Inversion (linalg.inv)
 
-Finding Roots (polynomial.Polynomial)
 
-Eigenvalues and Eigenvectors (linalg.eig)
+## 2. pandas.py — Pandas: Data Analysis Library
+Topics Covered:
 
-Practical Examples with Image Processing, Deep Learning references (OpenCV, TensorFlow)
+ ## - DataFrame and Series Creation:
+  
+ ## - Accessing Data:
+
+       - iloc (Index based selection)
+        
+       - loc (Label based selection)
+        
+       - Single and Multiple Column Selection
+        
+       - Head and Tail Operations
+
+## - Handling Missing Values:
+
+       - Detecting (isna(), isnull())
+        
+       - Dropping (dropna())
+        
+       - Filling (fillna())
+
+## - Data Exploration:
+
+        - Data Types, Info, Describe
+         
+        - Statistical Summary (mean, median, mode, variance, std deviation, quantiles)
+
+- Iterating over DataFrames (items, iteritems, iterrows)
+
+- Converting between NumPy arrays, Lists, and DataFrames
+
+- Data Cleaning Techniques
+
+- Working with real-world datasets like IPL Matches, Diabetes Dataset       
+
+   
