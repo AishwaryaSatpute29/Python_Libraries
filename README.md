@@ -80,10 +80,10 @@ Topics Covered:
 # 💻 Usage
 These scripts are primarily for Practice purposes:
 
- -Practice hands-on NumPy and Pandas operations.
+ - Practice hands-on NumPy and Pandas operations.
  
- -Understand core concepts used in Data Analysis, Machine Learning, and Deep Learning.
+ - Understand core concepts used in Data Analysis, Machine Learning, and Deep Learning.
  
- -Modify the examples to fit your learning style or project needs.    
+ - Modify the examples to fit your learning style or project needs.    
 
    
