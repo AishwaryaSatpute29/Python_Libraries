@@ -75,6 +75,15 @@ Topics Covered:
 
 - Data Cleaning Techniques
 
-- Working with real-world datasets like IPL Matches, Diabetes Dataset       
+- Working with real-world datasets like IPL Matches, Diabetes Dataset
+
+# 💻 Usage
+These scripts are primarily for Practice purposes:
+
+ -Practice hands-on NumPy and Pandas operations.
+ 
+ -Understand core concepts used in Data Analysis, Machine Learning, and Deep Learning.
+ 
+ -Modify the examples to fit your learning style or project needs.    
 
    
