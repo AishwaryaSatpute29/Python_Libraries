@@ -6,7 +6,7 @@ Topics Covered:
 
   - Introduction to NumPy Arrays
    
-  -  Data Types, Type Casting
+  - Data Types, Type Casting
    
   -  Mathematical Operations (Addition, Multiplication, Dot Product, Exponents)
     
